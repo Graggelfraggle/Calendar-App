@@ -1,0 +1,19 @@
+.Currentdate {
+  float:right;
+  background-color:red;
+  width:33%;
+}
+
+.Buttons {
+  position:absolute;
+  width:33%;
+  left:40%;
+}
+.Month {
+  padding-top:8.7%;
+  width:110%;
+  background-color:blue;
+  padding-bottom:8.7%;
+}
+
+
